@@ -1,24 +1,5 @@
-# README
+### Getting Started with Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Followed along the [official Ruby on Rails guide](https://guides.rubyonrails.org/getting_started.html).
+This is my first experience with Rails.
+Going further than 8.2 is causing issues.
